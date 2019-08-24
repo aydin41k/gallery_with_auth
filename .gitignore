@@ -18,3 +18,10 @@ Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+/.idea
+/.vscode
+/nbproject
+/.vagrant
+yarn-error.log.env
+.phpunit.result.cache 
